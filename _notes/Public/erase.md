@@ -1,12 +1,9 @@
-
 ---
-
 title: erase
 feed: show
 date: 31-10-2022
 permalink: /erase
 format: list
-
 ---
 
 
